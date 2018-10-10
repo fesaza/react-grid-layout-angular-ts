@@ -1,5 +1,7 @@
 # TestGrid
 
+This project was created to test [react-grid-layout](https://github.com/STRML/react-grid-layout) into an angular 6 application with typescript. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server
