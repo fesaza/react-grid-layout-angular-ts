@@ -23,7 +23,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/react-grid-layout/css/styles.css",
+              "node_modules/react-resizable/css/styles.css"
             ],
             "scripts": []
           },
